@@ -10,7 +10,7 @@
 
     <properties>
         <mule.version>3.1.1</mule.version>
-        <org.springframework.version>4.2.4.RELEASE</org.springframework.version>
+        <org.springframework.version>5.3.18</org.springframework.version>
         <org.springframework.security.version>4.0.3.RELEASE</org.springframework.security.version>
         <hibernateOgmVersion>4.2.0.Final</hibernateOgmVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
